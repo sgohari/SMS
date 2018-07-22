@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Owner\\AndroidStudioProjects\\SMS\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Owner\\AndroidStudioProjects\\SMS\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,59",
+                        "endColumns": "40,59",
+                        "endOffsets": "156,114"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,96",
+                        "endColumns": "40,59",
+                        "endOffsets": "91,151"
+                    }
+                }
+            ]
+        }
+    ]
+}

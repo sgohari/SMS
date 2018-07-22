@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:9:22-67
+application
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:11:5-33:19
+	android:label
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:12:9-45
+activity#net.learn2develop.SMS.SMSActivity
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:15:13-45
+	android:launchMode
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:16:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:18:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:20:27-74
+receiver#net.learn2develop.SMS.SMSReceiver
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:26:19-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:27:13-30:29
+	android:priority
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:27:28-50
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:28:17-29:65
+	android:name
+		ADDED from C:\Users\Owner\AndroidStudioProjects\SMS\app\src\main\AndroidManifest.xml:28:25-101

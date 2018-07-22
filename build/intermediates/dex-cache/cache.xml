@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\SMS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66965534f057e0f4657495cedbc0f4c72835e093">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\SMS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2f2c138e7d95376049fd2405323dd8a15666e300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Classes\COMP304\class_examples_androidstudio\SMS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Classes\COMP304\class_examples_androidstudio\SMS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20ad6e98da3a03a21d7a2ea7a1beb5be0c5be4d5\classes.dex" />
+    </item>
+
+</items>
